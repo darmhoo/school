@@ -64,10 +64,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'school',
+	'hostname' => 'eu-cdbr-west-02.cleardb.net',
+	'username' => 'b8cfb3637c1e6d',
+	'password' => 'fbf2fc9c',
+	'database' => 'meritmod_meritmod_school',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
